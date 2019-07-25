@@ -1,0 +1,72 @@
+{
+  "mini-css-extract-plugin node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!static/style.scss": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "css node_modules/css-loader/index.js??ref--5-1!node_modules/sass-loader/lib/loader.js??ref--5-2!static/style.scss 0": 0
+    },
+    "usedIds": {
+      "0": 0
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "static/runtime/main.js": 2,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\_app.js": 3,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\_error.js": 4,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\addmenu.js": 5,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\basicinfo.js": 6,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\changereservation.js": 7,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\index.js": 8,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\question.js": 9,
+      "static\\unlW13WV_98jLpMeDoBga\\pages\\reservation.js": 10,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\_app.js": 11,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\_error.js": 12,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\addmenu.js": 13,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\basicinfo.js": 14,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\changereservation.js": 15,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\index.js": 16,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\question.js": 17,
+      "static\\WXrkW2shDEMaHi8FUYXC5\\pages\\reservation.js": 18,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\_app.js": 3,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\_error.js": 4,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\addmenu.js": 5,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\basicinfo.js": 6,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\changereservation.js": 7,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\index.js": 8,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\question.js": 9,
+      "static\\NANB3aOXhM1owqpTu10hL\\pages\\reservation.js": 10
+    },
+    "bySource": {},
+    "usedIds": [
+      0,
+      1,
+      10,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  }
+}
